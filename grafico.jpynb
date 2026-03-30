@@ -1,0 +1,10 @@
+import matplolib.pyplot as plt 
+
+meses = (jan, fev, mar, abr)
+vendas = (10, 34, 20, 90)
+
+plt.plot (meses, vendas)
+plot.xlabel(meses)
+plot.ylabel(vendas)
+plt.title(vendas da sony em 2025)
+plt.show()
